@@ -226,7 +226,7 @@ p:last-child { margin-bottom: 0; }
 /* ─── Page Banner (all inner pages) ────────────────────── */
 .page-banner {
   position: relative;
-  background: url('../logos/sb_landscape.jpeg') center/cover no-repeat;
+  background: url('../banners/sb_landscape.jpeg') center/cover no-repeat;
   padding: 5rem 0 4rem;
   overflow: hidden;
 }

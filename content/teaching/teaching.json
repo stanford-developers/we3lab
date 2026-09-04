@@ -1,4 +1,15 @@
 [
+   {
+    "course_code": "CEE 273T",
+    "name": "Modern Modeling Techniques for Water and Wastewater Systems",
+    "quarters": [
+      "Summer 2024",
+      "Summer 2023",
+      "Fall 2026"
+    ],
+    "description": "This course examines emerging modeling techniques for describing, optimizing, and controlling water and wastewater systems. We will focus on modern approaches for high fidelity representation of the physical, chemical, and biological processes in water treatment and distribution systems. We will cover physics-based, data driven, and hybrid physics-based / data-driven modeling approaches. We also emphasize the translation of theory to engineering by inviting guest lecturers to discuss how research and industry professionals develop and use these models. Homework will involve practicing the application of commercial modeling tools to representative problems. At the conclusion of the class, students will have gained familiarity with current and emerging modeling software used by the water industry and will have developed contacts at innovative digital firms in the water industry.",
+    "link": "https://navigator.stanford.edu/classes/1248/22858"
+  },
   {
     "course_code": "CEE 273W",
     "name": "Water Innovation & Investment",
@@ -7,16 +18,6 @@
     ],
     "description": "As climate induced variability, aging infrastructure, and regulatory pressure stress traditional water networks, utilities and water end users are forced to get creative about how they procure, treat, and deliver water. These stressors are creating new investment opportunities, as well as opportunities for researchers and entrepreneurs to introduce new solutions. This course will explore the emerging water landscape from a business and innovation perspective. Students will learn about how water systems are currently financed and operated, how technology innovation is changing the status-quo, and which specific technology spaces are most likely to deliver value.",
     "link": "https://navigator.stanford.edu/classes/1264/30837"
-  },
-  {
-    "course_code": "CEE 273T",
-    "name": "Modern Modeling Techniques for Water and Wastewater Systems",
-    "quarters": [
-      "Summer 2024",
-      "Summer 2023"
-    ],
-    "description": "As climate induced variability, aging infrastructure, and regulatory pressure stress traditional water networks, utilities and water end users are forced to get creative about how they procure, treat, and deliver water. These stressors are creating new investment opportunities, as well as opportunities for researchers and entrepreneurs to introduce new solutions. This course will explore the emerging water landscape from a business and innovation perspective. Students will learn about how water systems are currently financed and operated, how technology innovation is changing the status-quo, and which specific technology spaces are most likely to deliver value.",
-    "link": "https://navigator.stanford.edu/classes/1248/22858"
   },
   {
     "course_code": "CEE 273M",

@@ -195,7 +195,7 @@
     "email": "ttsung2@stanford.edu"
   },
   {
-    "name": "He Shan",
+    "name": "Dr. He Shan",
     "role": "postdoc",
     "scholar_url": "",
     "linkedin": "https://www.linkedin.com/in/he-shan-5a987730a",
@@ -215,5 +215,16 @@
     "netID": "canruso",
     "bio": "Sabi Can Ruso is a PhD student in Civil and Environmental Engineering at Stanford University. He earned his B.S. in Environmental Sciences and Data Science and his M.S. in Civil and Environmental Engineering with a concentration in Systems Engineering, both from the University of California, Berkeley. Before joining the WE3 Lab, he worked on collaborative water resources projects including CoEqwal (Collaboratory for Equity in Water Allocations) and with agencies such as the California Department of Water Resources and the U.S. Army Corps of Engineers.",
     "email": "canruso@stanford.edu"
+  },
+  {
+    "name": "Tongyu Wang",
+    "role": "ms student",
+    "scholar_url": "",
+    "linkedin": "https://www.linkedin.com/in/michelletongyuwang",
+    "website": "",
+    "cv": "",
+    "netID": "tongyuw",
+    "bio": "Tongyu is a Master's student in the Atmosphere/Energy program in the Department of Civil and Environmental Engineering at Stanford University. She earned her B.S. in Environmental Science and B.A. in Psychology from the University of Rochester. She is currently working on the Water Treatment (WaTr) ontology and Acquirium data management platform, focusing on their applications in water treatment system analysis. Her work involves exploring how these tools can support data reconciliation, system monitoring, and fault detection in water treatment processes.",
+    "email": "tongyuw@stanford.edu"
   }
 ]

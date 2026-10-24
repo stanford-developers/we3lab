@@ -147,7 +147,8 @@
     "id": "ontology",
     "title": "Water Treatment (WaTr) Ontology and Acquirium",
     "team": [
-      "fchapin"
+      "fchapin",
+      "tongyuw"
     ],
     "description": "Recent advances in machine learning and artificial intelligence show great promise for process automation. The data-driven nature of many state-of-the-art solutions presents challenges along the data pipeline from collection to validation, such as unavailability, misidentification, fragmentation, and low quality of data. We propose a water treatment ontology, WaTr, coupled with a data management platform, Acquirium, to address these challenges. A formal ontology (e.g., WaTr) can automatically enforce metadata rules and enable querying by logical relationships instead of esoteric tag names to increase data availability and avoid misidentification. Acquirium leverages the power of a formal ontology with a more user-friendly experience, providing built-in data reconciliation and validation tools to reconcile fragmented data and improve data quality. WaTr and Acquirium can help to accelerate the adoption of cutting-edge digital water solutions by alleviating data management headaches.",
     "research_areas": [

@@ -226,5 +226,16 @@
     "netID": "obaird",
     "bio": "Olivia Baird is a PhD student in Environmental Engineering at Stanford University and holds a BS in Chemical Engineering from the University of Kansas. She is interested in integrating water and wastewater treatment systems via direct potable reuse for water-stressed regions. Prior to joining the WE3 lab, Olivia worked as a process engineer overseeing the operation of a potable water treatment plant in DC.",
     "email": "obaird@stanford.edu"
+  },
+  {
+    "name": "Tongyu Wang",
+    "role": "ms student",
+    "scholar_url": "",
+    "linkedin": "https://www.linkedin.com/in/michelletongyuwang",
+    "website": "",
+    "cv": "",
+    "netID": "tongyuw",
+    "bio": "Tongyu is a Master's student in the Atmosphere/Energy program in the Department of Civil and Environmental Engineering at Stanford University. She earned her B.S. in Environmental Science and B.A. in Psychology from the University of Rochester. She is currently working on the Water Treatment (WaTr) ontology and Acquirium data management platform, focusing on their applications in water treatment system analysis. Her work involves exploring how these tools can support data reconciliation, system monitoring, and fault detection in water treatment processes.",
+    "email": "tongyuw@stanford.edu"
   }
 ]

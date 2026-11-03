@@ -55,6 +55,17 @@
     "email": "raoak@stanford.edu"
   },
   {
+    "name": "Dr. Sampriti Chattopadhyay",
+    "role": "postdoc",
+    "scholar_url": "https://scholar.google.com/citations?user=_k1bvu8AAAAJ",
+    "linkedin": "https://www.linkedin.com/in/sampriti-chattopadhyay",
+    "website": "",
+    "cv": "https://drive.google.com/file/d/1-2t6GQ_clz1eyXWKcKyySp0Hb7TGvtjL/view?usp=sharing",
+    "netID": "sampritc",
+    "bio": "Sampriti's core research focus is on the optimal design and operation of process systems for flexible operation under varying electricity prices. At Stanford, Sampriti works on finding optimal scheduling strategies to minimize costs while flexibly operating wastewater treatment facilities. She also focuses on the screening and development of surrogate models within optimization frameworks. Her doctoral work focused on finding optimal strategies for the retrofit decarbonization of oil refineries, considering electrification and carbon capture as potential options. This work developed multiscale optimization methods for the simultaneous design and operation of flexibly operating systems, integrating process models, electricity market data, and stochastic programming. Sampriti earned a Ph.D. in Chemical Engineering from Carnegie Mellon University, following a B.Tech. in Chemical Engineering and an M.Tech. in Data Science from the Indian Institute of Technology Madras.",
+    "email": "sampritc@stanford.edu"
+  }
+  {
     "name": "Sinan Abi Farraj",
     "role": "phd student",
     "scholar_url": "https://scholar.google.com/citations?user=jXY4gz0AAAAJ",
